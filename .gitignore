@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files
+.env
+*/.env
+
+# Build outputs
+dist/
+*/dist/
+
+# Uploads (don't commit actual files)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Mac files
+.DS_Store
+
+# Vite cache
+.vite/
+*/.vite/
