@@ -11,7 +11,7 @@
 
 ---
 
-## 📸 Preview
+##  Preview
 
 | Login | Dashboard | Dark Mode |
 |---|---|---|
@@ -19,24 +19,24 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **JWT Authentication** — Secure login & register with access + refresh tokens
-- 📁 **File Management** — Upload, download, rename, move, and delete files
-- 📂 **Folder System** — Create nested folders with breadcrumb navigation
-- 👁️ **File Preview** — Inline preview for images, PDFs, videos, and audio
-- ⭐ **Starred Files** — Star important files for quick access
-- 🗑️ **Trash System** — Soft delete with restore and permanent delete
-- 🔗 **Public Share Links** — Generate shareable links with no login required
-- 🔍 **File Search** — Search files instantly across your drive
-- 📊 **Storage Quota** — Real-time storage usage bar (1GB per user)
-- 🌙 **Dark Mode** — Full dark/light mode toggle that persists
-- 🖱️ **Drag & Drop Upload** — Drop files directly to upload
-- ✏️ **Rename & Move** — Inline rename and move files between folders
+-  **JWT Authentication** — Secure login & register with access + refresh tokens
+-  **File Management** — Upload, download, rename, move, and delete files
+-  **Folder System** — Create nested folders with breadcrumb navigation
+-  **File Preview** — Inline preview for images, PDFs, videos, and audio
+-  **Starred Files** — Star important files for quick access
+-  **Trash System** — Soft delete with restore and permanent delete
+-  **Public Share Links** — Generate shareable links with no login required
+-  **File Search** — Search files instantly across your drive
+-  **Storage Quota** — Real-time storage usage bar (1GB per user)
+-  **Dark Mode** — Full dark/light mode toggle that persists
+-  **Drag & Drop Upload** — Drop files directly to upload
+-  **Rename & Move** — Inline rename and move files between folders
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -63,7 +63,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CloudNova/
@@ -124,7 +124,7 @@ CloudNova/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -189,7 +189,7 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## 🔑 API Endpoints
+## API Endpoints
 
 ### Auth
 | Method | Endpoint | Description |
@@ -229,7 +229,7 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 - **Backend** — Railway
 - **Frontend** — Vercel
@@ -237,14 +237,14 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Daksh Mehrotra**
 - GitHub: [@DakshMehrotra](https://github.com/DakshMehrotra)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
